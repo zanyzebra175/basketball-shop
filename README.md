@@ -17,7 +17,7 @@ There are components for each basketball item card presented on the platform, as
 
 ### How Data is Passed Down Through Components
 
-The componenets are used as tags directly in the App return function, with the variables needed being passed in to the components as props. Since the components themselves have the necessary HTML for display, they can be used directly as inputs in the App class. 
+The components are used as tags directly in the App return function, with the variables needed being passed in to the components as props. Since the components themselves have the necessary HTML for display, they can be used directly as inputs in the App class. 
 
 ### How the User Triggers State Changes
 
